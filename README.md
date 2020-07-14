@@ -1,7 +1,7 @@
 
 
 # Bulls and Cows
-![](https://d2xzmw6cctk25h.cloudfront.net/event/824/image/medium2x-381b36cbc9a13235682a4f033a365a56.jpg)
+![](pre.jpg)
 ## Description
 _Bulls and cows_ is a console version of a popular game where a player seeks to guess a conceived number in in fewer steps. The game is presented in two variations:
 
@@ -60,5 +60,4 @@ It is planned to add to the game:
 
 ## Author
 
-RedSenior (_Azat Bilalov_)
-0.5 version
+RedSenior (_Azat Bilalov_); 0.5 version
